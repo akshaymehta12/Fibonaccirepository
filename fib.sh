@@ -1,9 +1,7 @@
-# Series
-
 # Static inupt for N
 N=6
 
-# First Number pf the
+# First Number of the
 # Fibonacci Series
 a=0
 
